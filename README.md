@@ -45,6 +45,5 @@ I’ll be adding my projects to this portfolio as I complete them.
 Second Year
 
 ## Connect With Me
-
-**LinkedIn:** Add your LinkedIn profile here  
+ [LinkedIn](https://www.linkedin.com/in/devika-devika-08531a421) 
 **GitHub:** https://github.com/devika-it7408
